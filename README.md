@@ -2,3 +2,7 @@
 # BuildingTerrains
 Using Unity's Terrain Tool to create landscapes, also uses the Third Person Controller assets from Unity.
 
+# Free Assets Used
+* [Third Person Armature](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526) (Player Character model itself by me)
+* Terrain 
+* Low Poly Trees
