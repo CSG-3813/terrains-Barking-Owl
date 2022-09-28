@@ -2,6 +2,5 @@
 # BuildingTerrains
 Using Unity's [Terrain Tool](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808) to create landscapes, also uses the [Third Person Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526) assets from Unity. Player model made by me.
 
-# Other Free Assets Used or May Be Used
+# Other Free Assets Used
 * [Low Poly Trees](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866)
-* [Poly City Lite](https://assetstore.unity.com/packages/3d/poly-city-free-cartoon-pack-95242) (?)
